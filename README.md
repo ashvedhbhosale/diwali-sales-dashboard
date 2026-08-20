@@ -32,4 +32,4 @@ Analyze Diwali sales transaction data to uncover purchasing patterns across gend
 3. Use slicers to explore data by state, zone, or demographic
 
 ## 👤 Author
-Ashvedh Bhosale — [LinkedIn](your-linkedin-url) | [Portfolio/GitHub](your-github-url)
+Ashvedh Bhosale — [LinkedIn](www.linkedin.com/in/ashvedh-bhosale) | [Portfolio/GitHub]([your-github-url](https://github.com/ashvedhbhosale))
